@@ -1,0 +1,448 @@
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>1
+
+Enter student data to add:-
+Name: Antony Mark
+Roll No: 17CS30012
+CGPA: 9.3
+Record added to queue.
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>1
+
+Enter student data to add:-
+Name: Muhammad Ali
+Roll No: 32GG210013
+CGPA: 8.6
+Record added to queue.
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>1
+
+Enter student data to add:-
+Name: Manohar Ghosh
+Roll No: 21ED20024
+CGPA: 7.5
+Record added to queue.
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>1
+
+Enter student data to add:-
+Name: Bandana Bharathi
+Roll No: 16EX120012
+CGPA: 5.6
+Record added to queue.
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>2
+
+Record of following student removed:-
+Name: Antony Mark
+Roll No: 17CS30012
+CGPA: 9.30
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>1
+
+Enter student data to add:-
+Name: Sashi Bhatia
+Roll No: 14CH100009
+CGPA: 8.7
+Record added to queue.
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>1
+
+Enter student data to add:-
+Name: Bhaichung Lama
+Roll No: 12AE300012
+CGPA: 9.3
+Record added to queue.
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>1
+
+Enter student data to add:-
+Name: Rama Parui
+Roll No: 18EE100032
+CGPA: 8.6
+Record added to queue.
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>1
+
+Enter student data to add:-
+Name: K. S. Khandelwal
+Roll No: 20CY100023
+CGPA: 9.3
+Record added to queue.
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>1
+
+Enter student data to add:-
+Name: Manohar Sapui
+Roll No: 17CS100023
+CGPA: 9.3
+Record added to queue.
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>2
+
+Record of following student removed:-
+Name: Muhammad Ali
+Roll No: 32GG210013
+CGPA: 8.60
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>2
+
+Record of following student removed:-
+Name: Manohar Ghosh
+Roll No: 21ED20024
+CGPA: 7.50
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>2
+
+Record of following student removed:-
+Name: Bandana Bharathi
+Roll No: 16EX120012
+CGPA: 5.60
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>1
+
+Enter student data to add:-
+Name: Samuel Barton
+Roll No: 18EE300019
+CGPA: 8.7
+Record added to queue.
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>1
+
+Enter student data to add:-
+Name: Geeta Maiti
+Roll No: 14CH1000016
+CGPA: 9.3
+Record added to queue.
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>1
+
+Enter student data to add:-
+Name: Mohana Garg
+Roll No: 19EC100008
+CGPA: 8.2
+Record added to queue.
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>1
+
+Enter student data to add:-
+Name: Sahil Gupta
+Roll No: 26NA100025
+CGPA: 7.8
+Record added to queue.
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>2
+
+Record of following student removed:-
+Name: Sashi Bhatia
+Roll No: 14CH100009
+CGPA: 8.70
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>2
+
+Record of following student removed:-
+Name: Bhaichung Lama
+Roll No: 12AE300012
+CGPA: 9.30
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>2
+
+Record of following student removed:-
+Name: Rama Parui
+Roll No: 18EE100032
+CGPA: 8.60
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>1
+
+Enter student data to add:-
+Name: Israfil Mandal
+Roll No: 26NA3000003
+CGPA: 8.4
+Record added to queue.
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>3
+
+----STUDENT RECORDS START----
+1>
+Name: K. S. Khandelwal
+Roll No: 20CY100023
+CGPA: 9.30
+2>
+Name: Manohar Sapui
+Roll No: 17CS100023
+CGPA: 9.30
+3>
+Name: Samuel Barton
+Roll No: 18EE300019
+CGPA: 8.70
+4>
+Name: Geeta Maiti
+Roll No: 14CH1000016
+CGPA: 9.30
+5>
+Name: Mohana Garg
+Roll No: 19EC100008
+CGPA: 8.20
+6>
+Name: Sahil Gupta
+Roll No: 26NA100025
+CGPA: 7.80
+7>
+Name: Israfil Mandal
+Roll No: 26NA3000003
+CGPA: 8.40
+----STUDENT RECORDS END----
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>4
+
+----TOPPER RECORDS START----
+1>
+Name: K. S. Khandelwal
+Roll No: 20CY100023
+CGPA: 9.30
+2>
+Name: Manohar Sapui
+Roll No: 17CS100023
+CGPA: 9.30
+3>
+Name: Geeta Maiti
+Roll No: 14CH1000016
+CGPA: 9.30
+----TOPPER RECORDS END----
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>1
+
+Enter student data to add:-
+Name: Neha Aditya
+Roll No: 16EX1000029
+CGPA: 9.5
+Record added to queue.
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>2
+
+Record of following student removed:-
+Name: K. S. Khandelwal
+Roll No: 20CY100023
+CGPA: 9.30
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>2
+
+Record of following student removed:-
+Name: Manohar Sapui
+Roll No: 17CS100023
+CGPA: 9.30
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>3
+
+----STUDENT RECORDS START----
+1>
+Name: Samuel Barton
+Roll No: 18EE300019
+CGPA: 8.70
+2>
+Name: Geeta Maiti
+Roll No: 14CH1000016
+CGPA: 9.30
+3>
+Name: Mohana Garg
+Roll No: 19EC100008
+CGPA: 8.20
+4>
+Name: Sahil Gupta
+Roll No: 26NA100025
+CGPA: 7.80
+5>
+Name: Israfil Mandal
+Roll No: 26NA3000003
+CGPA: 8.40
+6>
+Name: Neha Aditya
+Roll No: 16EX1000029
+CGPA: 9.50
+----STUDENT RECORDS END----
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>4
+
+----TOPPER RECORDS START----
+1>
+Name: Neha Aditya
+Roll No: 16EX1000029
+CGPA: 9.50
+----TOPPER RECORDS END----
+
+Choose operation from given list:
+1> Add a student's record
+2> Delete a student's record
+3> Display queue
+4> Print records of toppers
+5> Exit
+>>5
+
+Bye

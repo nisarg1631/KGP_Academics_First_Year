@@ -1,0 +1,41 @@
+----STUDENT(S) WITH MAX CGPA----
+
+Roll Number: 19BT1001
+Name: M. Laxmi
+DOB: 12/09/2001
+CGPA: 9.8
+
+----YOUNGEST STUDENT----
+
+Roll Number: 19BT1001
+Name: M. Laxmi
+DOB: 12/09/2001
+CGPA: 9.8
+
+----STUDENT LIST SORTED ACCORDING TO ROLL NUMBER----
+
+Roll Number: 18CS3016
+Name: B. Mandal
+DOB: 11/11/1999
+CGPA: 6.2
+
+Roll Number: 19BT1001
+Name: M. Laxmi
+DOB: 12/09/2001
+CGPA: 9.8
+
+Roll Number: 19CH1023
+Name: N. P. Gayen
+DOB: 11/07/2001
+CGPA: 9.5
+
+Roll Number: 19CS1023
+Name: S. Shiromoni
+DOB: 01/03/2000
+CGPA: 7.8
+
+Roll Number: 19EC1010
+Name: A. Motalib
+DOB: 10/02/2001
+CGPA: 9.5
+

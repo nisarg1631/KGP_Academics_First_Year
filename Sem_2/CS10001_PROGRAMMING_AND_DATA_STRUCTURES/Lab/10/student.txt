@@ -1,0 +1,17 @@
+1 Nisarg Upadhyaya 100.00 95.75 93.25
+1601003 Neelarun Mukherjee 22.00 44.00 10.00
+1601007 Shubham Raj 99.00 78.00 81.00
+1601008 Tejaswini Mangalagiri 96.00 56.00 68.00
+1601011 Vasanta Majety 88.50 67.50 93.50
+1601015 Arka Shankar 33.00 33.00 33.00
+1601016 Arkadeb Sengupta 66.00 66.00 62.50
+1601017 Rishabh Singhal 31.00 10.00 15.00
+1601018 Harsh Churiwala 90.00 87.75 90.00
+1601021 Jai Gupta 45.00 79.00 99.00
+1601022 Hemanth PS 56.00 56.00 56.00
+1601027 Kailash Hudda 22.00 11.00 43.50
+1601028 Random Person 1.00 2.00 3.00
+1601029 Mithilesh kumar 55.00 44.00 42.50
+1601032 Pranamya Kalgaonkar 95.00 55.00 77.50
+1601033 Miloni Patel 100.00 100.00 100.00
+1601034 Siddharth Vinod 10.00 9.00 8.00

@@ -1,0 +1,76 @@
+----STUDENT(S) WITH MAX CGPA----
+
+Roll Number: 19CY1015
+Name: O. P. Sharma
+DOB: 12/07/2001
+CGPA: 9.5
+
+Roll Number: 19EC1013
+Name: M. Siddharth
+DOB: 11/08/2001
+CGPA: 9.5
+
+Roll Number: 19MI1027
+Name: S. Dasgupta
+DOB: 05/07/2001
+CGPA: 9.5
+
+----YOUNGEST STUDENT----
+
+Roll Number: 19EE1015
+Name: B. Halder
+DOB: 14/09/2002
+CGPA: 8.7
+
+----STUDENT LIST SORTED ACCORDING TO ROLL NUMBER----
+
+Roll Number: 17CS3015
+Name: C. Mandal
+DOB: 11/11/1998
+CGPA: 6.2
+
+Roll Number: 18BT3020
+Name: M. Bhuyan
+DOB: 12/09/1999
+CGPA: 6.4
+
+Roll Number: 19AG1021
+Name: N. Kalyan
+DOB: 01/03/2000
+CGPA: 7.5
+
+Roll Number: 19CE1016
+Name: D. B. Chanchal
+DOB: 13/09/2002
+CGPA: 9.4
+
+Roll Number: 19CS1001
+Name: A. Khan
+DOB: 01/02/2001
+CGPA: 8.5
+
+Roll Number: 19CY1015
+Name: O. P. Sharma
+DOB: 12/07/2001
+CGPA: 9.5
+
+Roll Number: 19EC1013
+Name: M. Siddharth
+DOB: 11/08/2001
+CGPA: 9.5
+
+Roll Number: 19EE1015
+Name: B. Halder
+DOB: 14/09/2002
+CGPA: 8.7
+
+Roll Number: 19ME1005
+Name: L. Tandon
+DOB: 14/10/2001
+CGPA: 8.8
+
+Roll Number: 19MI1027
+Name: S. Dasgupta
+DOB: 05/07/2001
+CGPA: 9.5
+

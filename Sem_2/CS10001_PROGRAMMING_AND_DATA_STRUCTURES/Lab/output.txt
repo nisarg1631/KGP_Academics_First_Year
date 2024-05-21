@@ -1,0 +1,215 @@
+----LIST 0, LENGTH=9----
+
+->China
+Rank: 1
+Population (millions): 1439
+Population density (person/sq. km): 153
+Yearly change (%): 0.39
+Net change (thousands): 5540
+
+->Bangladesh
+Rank: 8
+Population (millions): 164
+Population density (person/sq. km): 1265
+Yearly change (%): 1.01
+Net change (thousands): 1643
+
+->Japan
+Rank: 11
+Population (millions): 126
+Population density (person/sq. km): 347
+Yearly change (%): 0.30
+Net change (thousands): 383
+
+->Ethiopia
+Rank: 12
+Population (millions): 114
+Population density (person/sq. km): 115
+Yearly change (%): 2.57
+Net change (thousands): 2884
+
+->Turkey
+Rank: 17
+Population (millions): 84
+Population density (person/sq. km): 110
+Yearly change (%): 1.09
+Net change (thousands): 909
+
+->Thailand
+Rank: 20
+Population (millions): 69
+Population density (person/sq. km): 137
+Yearly change (%): 0.25
+Net change (thousands): 174
+
+->Kenya
+Rank: 27
+Population (millions): 53
+Population density (person/sq. km): 94
+Yearly change (%): 2.28
+Net change (thousands): 1197
+
+->Algeria
+Rank: 33
+Population (millions): 43
+Population density (person/sq. km): 18
+Yearly change (%): 1.85
+Net change (thousands): 797
+
+->Mozambique
+Rank: 46
+Population (millions): 31
+Population density (person/sq. km): 40
+Yearly change (%): 2.93
+Net change (thousands): 889
+
+
+----LIST 1, LENGTH=5----
+
+->Pakistan
+Rank: 5
+Population (millions): 220
+Population density (person/sq. km): 287
+Yearly change (%): 2.00
+Net change (thousands): 4327
+
+->Russia
+Rank: 9
+Population (millions): 145
+Population density (person/sq. km): 9
+Yearly change (%): 0.04
+Net change (thousands): 62
+
+->Colombia
+Rank: 29
+Population (millions): 50
+Population density (person/sq. km): 46
+Yearly change (%): 1.08
+Net change (thousands): 543
+
+->Canada
+Rank: 39
+Population (millions): 37
+Population density (person/sq. km): 4
+Yearly change (%): 0.89
+Net change (thousands): 331
+
+->Morocco
+Rank: 40
+Population (millions): 36
+Population density (person/sq. km): 83
+Yearly change (%): 1.20
+Net change (thousands): 438
+
+
+----LIST 2, LENGTH=4----
+
+->India
+Rank: 2
+Population (millions): 1380
+Population density (person/sq. km): 464
+Yearly change (%): 0.99
+Net change (thousands): 13586
+
+->Philippines
+Rank: 13
+Population (millions): 109
+Population density (person/sq. km): 368
+Yearly change (%): 1.35
+Net change (thousands): 1464
+
+->Iran
+Rank: 18
+Population (millions): 83
+Population density (person/sq. km): 52
+Yearly change (%): 1.30
+Net change (thousands): 1079
+
+->Germany
+Rank: 19
+Population (millions): 83
+Population density (person/sq. km): 240
+Yearly change (%): 0.32
+Net change (thousands): 266
+
+
+----LIST 3, LENGTH=10----
+
+->United States
+Rank: 3
+Population (millions): 331
+Population density (person/sq. km): 36
+Yearly change (%): 0.59
+Net change (thousands): 1937
+
+->Brazil
+Rank: 6
+Population (millions): 212
+Population density (person/sq. km): 25
+Yearly change (%): 0.72
+Net change (thousands): 1509
+
+->Nigeria
+Rank: 7
+Population (millions): 206
+Population density (person/sq. km): 226
+Yearly change (%): 2.58
+Net change (thousands): 5175
+
+->Egypt
+Rank: 14
+Population (millions): 102
+Population density (person/sq. km): 103
+Yearly change (%): 1.94
+Net change (thousands): 1946
+
+->Vietnam
+Rank: 15
+Population (millions): 97
+Population density (person/sq. km): 314
+Yearly change (%): 0.91
+Net change (thousands): 876
+
+->France
+Rank: 22
+Population (millions): 65
+Population density (person/sq. km): 119
+Yearly change (%): 0.22
+Net change (thousands): 143
+
+->Tanzania
+Rank: 24
+Population (millions): 59
+Population density (person/sq. km): 67
+Yearly change (%): 2.98
+Net change (thousands): 1728
+
+->Spain
+Rank: 30
+Population (millions): 46
+Population density (person/sq. km): 94
+Yearly change (%): 0.04
+Net change (thousands): 18
+
+->Sudan
+Rank: 34
+Population (millions): 43
+Population density (person/sq. km): 25
+Yearly change (%): 2.42
+Net change (thousands): 1036
+
+->Ghana
+Rank: 47
+Population (millions): 31
+Population density (person/sq. km): 137
+Yearly change (%): 2.15
+Net change (thousands): 655
+
+
+----LIST 4, LENGTH=11----
+
+->Mexico
+Rank: 10
+Population (millions): 128
+Population density (person/sq. km): 66
+Yearly cha

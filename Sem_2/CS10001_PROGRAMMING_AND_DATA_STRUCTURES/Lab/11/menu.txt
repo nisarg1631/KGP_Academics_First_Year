@@ -1,0 +1,21 @@
+20
+Cheese steak 55
+Potato steak 40
+Veg steak 45
+Chicken steak 60
+Fried potato 35
+Veg sandwiches 50
+Cheese sandwiches 65
+Egg sandwiches 65
+Chicken sandwiches 80
+Veg burger 65
+Cheese burger 75
+Chicken burger 75
+Green salad 40
+Lemon tea 5
+Milk tea 7.50
+Black tea 4
+Black coffee 5
+Milk coffee 7.50
+Sweet small 4
+Sweet large 6.50
